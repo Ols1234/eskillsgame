@@ -5,9 +5,9 @@
 		id="com.game.eskillsgame"
 		version="0.0.1">
 	<name>eskillsgame</name>
-		<gap:platform name="android" />
-		<gap:platform name="ios" />
-		<preference name="orientation" value="portrait" />
-		<preference name="fullscreen" value="true" />
+		<gap:platform name="Cassie and Niamh" />
+		<gap:platform name="This Eskills game was delveloped by Cassie and Niamh for ITGirls 2014!" />
+		<preference name= "android" /> value="portrait" />
+		<preference name="ios" value="true" />
 		<icon src="icon.png" />
 </widget>
